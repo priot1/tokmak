@@ -1,0 +1,138 @@
+{
+    "result": true,
+    "item": {
+        "id": "CID_748_Athena_Commando_F_Hitman",
+        "type": {
+            "id": "outfit",
+            "name": "Экипировка"
+        },
+        "name": "Сирена",
+        "description": "Красота требует жертв.",
+        "rarity": {
+            "id": "Rare",
+            "name": "РЕДКИЙ"
+        },
+        "series": null,
+        "price": 1200,
+        "added": {
+            "date": "2020-04-15",
+            "version": "12.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": "2020-04-18",
+        "lastAppearance": "2021-08-16",
+        "interest": 4.96,
+        "images": {
+            "icon": "https://media.fortniteapi.io/images/3f3824cdbbe5ff412907572724f8fd5a/transparent.png",
+            "featured": "https://media.fortniteapi.io/images/3f3824cdbbe5ff412907572724f8fd5a/full_featured.png",
+            "background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/background.png",
+            "full_background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/info.ru.png"
+        },
+        "video": null,
+        "audio": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.12",
+            "Cosmetics.Set.BonkTeam",
+            "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "apiTags": [],
+        "battlepass": null,
+        "set": {
+            "id": "BonkTeam",
+            "name": "Опасная авантюра",
+            "partOf": "Входит в набор «Опасная авантюра»."
+        },
+        "introduction": {
+            "chapter": "Глава 2",
+            "season": "Сезон 2",
+            "text": "Первое появление: Глава 2, Сезон 2."
+        },
+        "displayAssets": [
+            {
+                "displayAsset": "DAv2_CID_748_F_Hitman",
+                "materialInstance": "MI_CID_748_F_Hitman",
+                "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_748_F_Hitman/MI_CID_748_F_Hitman.png",
+                "flipbook": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/MI_CID_748_F_Hitman/background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/MI_CID_748_F_Hitman/info.ru.png"
+            },
+            {
+                "displayAsset": "DAv2_CID_748_F_Hitman",
+                "materialInstance": "MI_CID_748_F_Hitman_02",
+                "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_748_F_Hitman/MI_CID_748_F_Hitman_02.png",
+                "flipbook": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/MI_CID_748_F_Hitman_02/background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/3f3824cdbbe5ff412907572724f8fd5a/v2/MI_CID_748_F_Hitman_02/info.ru.png"
+            }
+        ],
+        "shopHistory": [
+            "2020-04-18",
+            "2020-04-19",
+            "2020-05-21",
+            "2020-06-20",
+            "2020-07-20",
+            "2020-08-22",
+            "2020-09-23",
+            "2020-10-23",
+            "2020-11-30",
+            "2020-12-01",
+            "2020-12-28",
+            "2021-01-28",
+            "2021-03-05",
+            "2021-04-05",
+            "2021-05-07",
+            "2021-06-14",
+            "2021-06-15",
+            "2021-07-16",
+            "2021-07-17",
+            "2021-08-16"
+        ],
+        "styles": [
+            {
+                "name": "ОБЫЧНЫЙ",
+                "channel": "Cosmetics.Variant.Channel.Material",
+                "tag": "Cosmetics.Variant.Property.Mat1",
+                "isDefault": true,
+                "startUnlocked": true,
+                "hideIfNotOwned": false,
+                "image": "https://media.fortniteapi.io/images/styles/T-Soldier-HID-748-Athena-Commando-F-Hitman.png"
+            },
+            {
+                "name": "НУАР",
+                "channel": "Cosmetics.Variant.Channel.Material",
+                "tag": "Cosmetics.Variant.Property.Mat2",
+                "isDefault": false,
+                "startUnlocked": true,
+                "hideIfNotOwned": false,
+                "image": "https://media.fortniteapi.io/images/styles/T-Variant-748-Hitman-Noir.png"
+            }
+        ],
+        "grants": [
+            {
+                "id": "BID_518_HitmanCase",
+                "type": {
+                    "id": "backpack",
+                    "name": "Украшение на спину"
+                },
+                "name": "Поцелуй на прощание",
+                "description": "Подарок на прощание.",
+                "rarity": {
+                    "id": "Rare",
+                    "name": "РЕДКИЙ"
+                },
+                "series": null,
+                "images": {
+                    "icon": "https://media.fortniteapi.io/images/84fffdf71eb018a81610d8959263c90a/transparent.png",
+                    "featured": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/84fffdf71eb018a81610d8959263c90a/v2/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/84fffdf71eb018a81610d8959263c90a/v2/info.ru.png"
+                }
+            }
+        ],
+        "grantedBy": []
+    }
+}
